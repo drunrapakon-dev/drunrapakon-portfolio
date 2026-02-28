@@ -1,5 +1,3 @@
-**Summary**
-
 ## Professional Experience Summary
 
 Frontend Developer specializing in Next.js and modern web architecture, with hands-on experience delivering production-level applications across food delivery, education, analytics, fintech, and SaaS platforms.
