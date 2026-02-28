@@ -196,9 +196,9 @@ A system for tracking electricity meters for vendors at markets and large-scale 
 Flutter, Dart, Figma, Excel
 
 <p align="center">
-  <img src="./images/Event-devices-meter-tracking/Event-device-tracking-mobile1.png" width="28%" height="500" />
-  <img src="./images/Event-devices-meter-tracking/Event-device-tracking-mobile2.png" width="28%" height="500" />
-  <img src="./images/Event-devices-meter-tracking/Event-device-tracking-mobile3.png" width="28%" height="500" />
+  <img src="./images/Event-devices-meter-tracking/Event-device-tracking-mobile1.png" width="28%" height="485" />
+  <img src="./images/Event-devices-meter-tracking/Event-device-tracking-mobile2.png" width="28%" height="485" />
+  <img src="./images/Event-devices-meter-tracking/Event-device-tracking-mobile3.png" width="28%" height="485" />
 </p>
 <img src="./images/Event-devices-meter-tracking/Event-device-tracking-web.png" width="100%" />
 
