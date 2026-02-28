@@ -80,6 +80,24 @@ Next.js, ShadCN UI, Next-Auth, Prisma, Tailwind
 
 ---
 
+## Brer Rabbit
+
+**August 4, 2025 – August 6, 2025**
+
+**Description:**  
+A corporate website providing Citizenship by Investment and offshore solutions for globally mobile entrepreneurs and families.
+
+**Responsibilities:**
+
+- Implemented interactive world map with hover highlight and country-specific navigation
+
+**Technologies:**  
+WordPress
+
+<img src="./images/Brer-rabbit/brer-rabbit.png" width="100%" />
+
+---
+
 ## N Infinite
 
 **April 24, 2025 – September 17, 2025**
@@ -201,21 +219,3 @@ Flutter, Dart, Figma, Excel
   <img src="./images/Event-devices-meter-tracking/Event-device-tracking-mobile3.png" width="28%" height="485" />
 </p>
 <img src="./images/Event-devices-meter-tracking/Event-device-tracking-web.png" width="100%" />
-
----
-
-## Brer Rabbit
-
-**August 4, 2025 – August 6, 2025**
-
-**Description:**  
-A corporate website providing Citizenship by Investment and offshore solutions for globally mobile entrepreneurs and families.
-
-**Responsibilities:**
-
-- Implemented interactive world map with hover highlight and country-specific navigation
-
-**Technologies:**  
-WordPress
-
-<img src="./images/Brer-rabbit/brer-rabbit.png" width="100%" />
